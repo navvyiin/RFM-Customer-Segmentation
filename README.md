@@ -55,7 +55,6 @@ Optional files should not include personally identifiable information (PII).
 - main_rfm_segmentation.py - Main Streamlit application
 - requirements.txt - Python dependencies
 - README.md - Project documentation
-- data.csv - Optional example dataset (no PII)
 
 # Intended Users
 - Marketing & CRM teams seeking actionable segmentation.
