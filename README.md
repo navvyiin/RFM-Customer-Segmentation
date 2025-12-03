@@ -55,6 +55,7 @@ Optional files should not include personally identifiable information (PII).
 - main_rfm_segmentation.py - Main Streamlit application
 - requirements.txt - Python dependencies
 - README.md - Project documentation
+- This is the workflow of the project - https://www.figma.com/board/tCxlM8oWazPmMYLDTl5XAx/RFM-Segmentation-Workflow?node-id=0-1&t=8R0FOKkxZ65CZ8hq-1
 
 # Intended Users
 - Marketing & CRM teams seeking actionable segmentation.
